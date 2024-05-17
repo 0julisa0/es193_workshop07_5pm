@@ -5,3 +5,9 @@ editor: visual
 ---
 
 es 193
+
+```{r}
+library(tidyverse)
+library(lterdatasampler)
+
+```
